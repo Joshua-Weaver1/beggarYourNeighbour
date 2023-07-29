@@ -1,0 +1,18 @@
+Average quality of a riffle shuffle of 50 integers with 1 shuffles: 0.735
+Average quality of a riffle shuffle of 50 integers with 2 shuffles: 0.633
+Average quality of a riffle shuffle of 50 integers with 3 shuffles: 0.592
+Average quality of a riffle shuffle of 50 integers with 4 shuffles: 0.571
+Average quality of a riffle shuffle of 50 integers with 5 shuffles: 0.551
+Average quality of a riffle shuffle of 50 integers with 6 shuffles: 0.551
+Average quality of a riffle shuffle of 50 integers with 7 shuffles: 0.633
+Average quality of a riffle shuffle of 50 integers with 8 shuffles: 0.571
+Average quality of a riffle shuffle of 50 integers with 9 shuffles: 0.490
+Average quality of a riffle shuffle of 50 integers with 10 shuffles: 0.510
+Average quality of a riffle shuffle of 50 integers with 11 shuffles: 0.490
+Average quality of a riffle shuffle of 50 integers with 12 shuffles: 0.490
+Average quality of a riffle shuffle of 50 integers with 13 shuffles: 0.510
+Average quality of a riffle shuffle of 50 integers with 14 shuffles: 0.510
+Average quality of a riffle shuffle of 50 integers with 15 shuffles: 0.531
+
+I think it's necessary to shuffle an array of length 50 10 times.
+This is because the average quality get quite close to 0.5 at this point.

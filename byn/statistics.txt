@@ -1,0 +1,44 @@
+Game with 2 players:
+Shortest: 27 turns
+Longest: 913 turns
+Average: 156 turns
+
+Game with 3 players:
+Shortest: 85 turns
+Longest: 419 turns
+Average: 194 turns
+
+Game with 4 players:
+Shortest: 81 turns
+Longest: 443 turns
+Average: 228 turns
+
+Game with 5 players:
+Shortest: 85 turns
+Longest: 574 turns
+Average: 276 turns
+
+Game with 6 players:
+Shortest: 131 turns
+Longest: 696 turns
+Average: 319 turns
+
+Game with 7 players:
+Shortest: 102 turns
+Longest: 840 turns
+Average: 326 turns
+
+Game with 8 players:
+Shortest: 72 turns
+Longest: 661 turns
+Average: 287 turns
+
+Game with 9 players:
+Shortest: 114 turns
+Longest: 866 turns
+Average: 312 turns
+
+Game with 10 players:
+Shortest: 141 turns
+Longest: 666 turns
+Average: 287 turns
